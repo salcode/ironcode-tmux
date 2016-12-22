@@ -23,6 +23,7 @@ My tmux configuration and notes.
 - `<space>` start selection
 - `v` start selection (custom command)
 - `<enter>` copy selection
+- `y` copy selection (custom command)
 
 ## Setup
 
