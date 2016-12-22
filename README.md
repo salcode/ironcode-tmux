@@ -12,6 +12,7 @@ My tmux configuration and notes.
 - `prefix + ctrl (up arrow)` move maleable edge up (e.g. a bottom pane gets bigger, top pane gets smaller) (also works for other arrow keys)
 
 ### Custom Commands
+- `prefix + r` reload configuration (i.e. reload _~/.tmux.conf_)
 - `Ctrl + h` navigate to left pane (also works with j,k,l)
 
 ## Setup
