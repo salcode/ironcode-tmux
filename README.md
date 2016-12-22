@@ -24,6 +24,7 @@ My tmux configuration and notes.
 - `v` start selection (custom command)
 - `<enter>` copy selection
 - `y` copy selection to both a tmux buffer and the system clipboard (custom command)
+- `r` toggle rectangular selection (custom command)
 
 ## Setup
 
