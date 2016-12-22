@@ -21,6 +21,7 @@ My tmux configuration and notes.
 ### In Copy Mode
 
 - `<space>` start selection
+- `v` start selection (custom command)
 - `<enter>` copy selection
 
 ## Setup
