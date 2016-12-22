@@ -17,6 +17,7 @@ My tmux configuration and notes.
 ### Custom Commands
 - `prefix + r` reload configuration (i.e. reload _~/.tmux.conf_)
 - `Ctrl + h` navigate to left pane (also works with j,k,l)
+- `Alt + (up arrow)` resize pane, move split up (also works with for other arrow keys)
 
 ### In Copy Mode
 
