@@ -27,6 +27,20 @@ My tmux configuration and notes.
 - `y` copy selection top system clipboard (custom command)
 - `r` toggle rectangular selection (custom command)
 
+### Resurrect Plugin Commands
+
+#### Save Current State
+
+```
+prefix + Ctrl + s
+```
+
+#### Restore Most Recently Saved State
+
+```
+prefix + Ctrl + r
+```
+
 ## Setup
 
 Clone the directory in your home directory.
@@ -40,3 +54,21 @@ Symlink `tmux.conf` to `~/.tmux.conf`
 ```
 ln -sf ~/ironcode-tmux/tmux.conf ~/.tmux.conf
 ```
+
+### Install Plugins (optional)
+
+#### Add Tmux Plugin Manager(tpm)
+
+#### Copy Files
+```
+$ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+#### Source the new/updated files
+```
+$ tmux source ~/.tmux.conf
+```
+
+#### Install the Plugins
+
+`prefix + I` (capital `I` as in `install`)
