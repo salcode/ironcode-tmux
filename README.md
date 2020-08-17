@@ -46,7 +46,7 @@ prefix + Ctrl + r
 Clone the directory in your home directory.
 
 ```
-git clone git@github.com:salcode/ironcode-tmux.git ~/
+git clone git@github.com:salcode/ironcode-tmux.git ~/ironcode-tmux.git
 ```
 
 Symlink `tmux.conf` to `~/.tmux.conf`
